@@ -2,7 +2,7 @@
 
 所有的东西都在一个工厂里创建，随着新的需求出现，客户端的依赖会越来越臃肿，从代码的角度不易于扩展。
 
-![ad](https://github.com/memoryEffect/gupao-work-2019-3-6/blob/master/src/uml/simpleFactory.png）
+![ad](https://github.com/memoryEffect/gupao-work-2019-3-6/blob/master/src/uml/simpleFactory.png)
 
 工厂方法模式
 
